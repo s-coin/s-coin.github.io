@@ -3,7 +3,6 @@ layout: default
 ---
 
 ![S-Coin Banner](http://i68.tinypic.com/nyg4lc.jpg)
-
 This is a shop/currency where people will make some Scratch related things using the [S-Coin currency](https://scratch.mit.edu/discuss/topic/350825)
 
 For example, we could make a tutorial
